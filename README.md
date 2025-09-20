@@ -2,6 +2,12 @@
 
 A modern React-based movie discovery application that helps users find movies they'll enjoy without the hassle. Features trending movies based on search popularity and seamless movie browsing powered by The Movie Database (TMDB) API.
 
+## 🌐 Live Demo
+
+**🚀 [View Live App](https://movie-app-ten-sepia-83.vercel.app/)**
+
+Try the app now - search for your favorite movies and see what's trending!
+
 ## ✨ Features
 
 - **Smart Movie Search**: Debounced search functionality to find movies instantly
