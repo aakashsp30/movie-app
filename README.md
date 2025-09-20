@@ -4,7 +4,7 @@ A modern React-based movie discovery application that helps users find movies th
 
 ## 🌐 Live Demo
 
-**🚀 <a href="https://movie-app-ten-sepia-83.vercel.app/" target="_blank" rel="noopener noreferrer">View Live App</a>
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20App-blue?style=for-the-badge&logo=vercel)](https://movie-app-ten-sepia-83.vercel.app/)
 
 Try the app now - search for your favorite movies and see what's trending!
 
