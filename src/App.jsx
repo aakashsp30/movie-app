@@ -7,7 +7,7 @@ import { useDebounce } from "react-use";
 
 const API_BASE_URL = "/api/tmdb";
 
-const API_KEY = import.meta.env.VITE_TMDB_API_KEY;
+// const API_KEY = import.meta.env.VITE_TMDB_API_KEY;
 
 const API_OPTIONS = {
   method: "GET",

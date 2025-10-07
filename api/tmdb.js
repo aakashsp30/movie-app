@@ -1,6 +1,3 @@
-// api/tmdb.js
-// Place this file in your project root in an 'api' folder
-
 export default async function handler(req, res) {
   // Enable CORS
   res.setHeader("Access-Control-Allow-Origin", "*");
